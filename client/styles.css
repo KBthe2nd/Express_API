@@ -1,0 +1,12 @@
+input {
+    display:inline-flex;
+    justify-content: center;
+
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+    background-color:rgb(255, 155, 155) ;
+}
